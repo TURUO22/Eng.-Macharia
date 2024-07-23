@@ -1,2 +1,3 @@
-# Eng.-Macharia
-software in my DNA
+
+# Run the application
+npm start
